@@ -1,0 +1,497 @@
+{
+    "name": "electronics",
+    "children": [
+        {
+            "name": "Laptops",
+            "children": [
+                {
+                    "name": "Samsung",
+                    "children": [
+                        {
+                            "name": "Notebook Pro 9",
+                            "size": 1200
+                        },
+                        {
+                            "name": "Chromebook Pro",
+                            "size": 1500
+                        },
+                        {
+                            "name": "Galaxy Tab Pro",
+                            "size": 2000
+                        }
+                    ]
+                },
+                {
+                    "name": "Apple",
+                    "children": [
+                        {
+                            "name": "Apple MacBook Pro",
+                            "size": 1800
+                        },
+                        {
+                            "name": "Apple MacBook Air",
+                            "size": 2200
+                        }
+                    ]
+                },
+                {
+                    "name": "Dell",
+                    "children": [
+                        {
+                            "name": "Inspiron 15",
+                            "size": 5074
+                        },
+                        {
+                            "name": "Latitude 3180",
+                            "size": 4074
+                        },
+                        {
+                            "name": "XPS 13 Developer",
+                            "size": 3140
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tablets",
+            "children": [
+                {
+                    "name": "Apple",
+                    "children": [
+                        {
+                            "name": "iPad Pro",
+                            "size": 3534
+                        },
+                        {
+                            "name": "iPad Mini 4",
+                            "size": 5731
+                        },
+                        {
+                            "name": "iPad Air 2",
+                            "size": 5840
+                        },
+                        {
+                            "name": "iPad Mini 2",
+                            "size": 2230
+                        },
+                        {
+                            "name": "iPad 2",
+                            "size": 1000
+                        }
+                    ]
+                },
+                {
+                    "name": "Lenovo Yoga",
+                    "size": 1041
+                },
+                {
+                    "name": "RCA Voyager",
+                    "size": 517
+                },
+                {
+                    "name": "Galileo Pro",
+                    "size": 449
+                },
+                {
+                    "name": "Samsung",
+                    "children": [
+                        {
+                            "name": "Galaxy Tab A",
+                            "size": 1983
+                        },
+                        {
+                            "name": "Galaxy Tab E Lite",
+                            "size": 2047
+                        },
+                        {
+                            "name": "Galaxy Tab S2",
+                            "size": 1035
+                        }
+
+                    ]
+
+                },
+                {
+                    "name": "E-Reader",
+                    "size": 4334
+                }
+            ]
+        },
+        {
+            "name": "Refrigerators",
+            "children": [
+                {
+                    "name": "Samsung",
+                    "children": [
+                        {
+                            "name": "23 Cu. ft. 4 door",
+                            "size": 3721
+                        },
+                        {
+                            "name": "Counter depth 4 door",
+                            "size": 4294
+                        },
+                        {
+                            "name": "French door",
+                            "size": 9800
+                        },
+                        {
+                            "name": "Top Freezer",
+                            "size": 3314
+                        }
+                    ]
+                },
+                {
+                    "name": "Kenmore",
+                    "size": 3759
+                },
+                {
+                    "name": "Whirpool",
+                    "children": [
+                        {
+                            "name": "Wide French Door",
+                            "size": 5086
+                        },
+                        {
+                            "name": "26.8 Cu. Ft. French Door",
+                            "size": 3860
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Leader 2 Door",
+                    "size": 2086
+                },
+                {
+                    "name": "Pizza Prep Table",
+                    "size": 3331
+                }
+            ]
+        },
+        {
+            "name": "HeadPhones",
+            "children": [
+                {
+                    "name": "Beats",
+                    "size": 8833
+                },
+                {
+                    "name": "SkullCandy",
+                    "size": 7732
+                },
+                {
+                    "name": "Bose",
+                    "size": 3623
+                },
+                {
+                    "name": "Sony",
+                    "size": 10066
+                }
+            ]
+        },
+        {
+            "name": "Inverters",
+            "children": [
+                {
+                    "name": "Magnum Energy",
+                    "size": 4116
+                }
+            ]
+        },
+        {
+            "name": "Desktops",
+            "children": [
+                {
+                    "name": "Dell Inspiron",
+                    "size": 10082
+                },
+                {
+                    "name": "HP Compaq",
+                    "size": 13360
+                },
+                {
+                    "name": "Lenovo 510",
+                    "size": 3190
+                },
+                {
+                    "name": "iMac Desktop",
+                    "size": 10498
+                }
+            ]
+        },
+        {
+            "name": "Television",
+            "children": [
+                {
+                    "name": "Sceptre",
+                    "children": [
+                        {
+                            "name": "40 inch Class",
+                            "size": 10001
+                        },
+                        {
+                            "name": "50 inch Class",
+                            "size": 10001
+                        }
+                    ]
+                },
+                {
+                    "name": "Hisense",
+                    "size": 10001
+                },
+                {
+                    "name": "Sealoc",
+                    "size": 8217
+                },
+                {
+                    "name": "Samsung",
+                    "children": [
+                        {
+                            "name": "55 inch LED ",
+                            "size": 93054
+                        },
+                        {
+                            "name": "Smart LED TV",
+                            "size": 12330
+                        },
+                        {
+                            "name": "LED Curved ",
+                            "size": 9040
+                        }
+                    ]
+                },
+                {
+                    "name": "LG",
+                    "children": [
+                        {
+                            "name": "C7 OLED ",
+                            "size": 12354
+                        },
+                        {
+                            "name": "43 inch LED 1080p",
+                            "size": 8733
+                        }
+                    ]
+                    
+                },
+                {
+                    "name": "Vizio",
+                    "size": 3830
+                }
+            ]
+        },
+        {
+            "name": "Mobile",
+            "children": [
+                {
+                    "name": "Other Mobiles",
+                    "children": [
+                        {
+                            "name": "Xiaomi",
+                            "size": 3400
+                        },
+                        {
+                            "name": "Vivo",
+                            "size": 1870
+                        },
+                        {
+                            "name": "LeTV",
+                            "size": 1353
+                        },
+                        {
+                            "name": "Oppo",
+                            "size": 4665
+                        },
+                        {
+                            "name": "Elephone S7",
+                            "size": 1649
+                        }
+                    ]
+                },
+                {
+                    "name": "Normal Mobiles",
+                    "children": [
+                        {
+                            "name": "Samsung",
+                            "children": [
+                                {
+                                    "name": "Samsung Convoy",
+                                    "size": 97808
+                                },
+                                {
+                                    "name": "Samsung Guru",
+                                    "size": 90978
+                                },
+                                {
+                                    "name": "Sgh T105g",
+                                    "size": 7978
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Nokia 5110",
+                            "size": 19788
+                        },
+                        {
+                            "name": "Motorola Razr",
+                            "size": 10349
+                        },
+                        {
+                            "name": "BlackBerry Pearl",
+                            "size": 3301
+                        },
+                        {
+                            "name": "Sony Ericsson Walkman",
+                            "size": 11275
+                        },
+                        {
+                            "name": "LG VX6100",
+                            "size": 7147
+                        }
+                    ]
+                },
+                {
+                    "name": "Satellite Phones",
+                    "children": [
+                        {
+                            "name": "DeLorme",
+                            "size": 313
+                        },
+                        {
+                            "name": "Inmarsat",
+                            "size": 880
+                        },
+                        {
+                            "name": "Thuraya",
+                            "size": 701
+                        }
+                    ]
+                },
+                {
+                    "name": "Smart Phones",
+                    "children": [
+                        {
+                            "name": "LG",
+                            "children": [
+                                {
+                                    "name": "Nexus 4",
+                                    "size": 44610
+                                },
+                                {
+                                    "name": "LG G6",
+                                    "size": 63140
+                                },
+                                {
+                                    "name": "LG M3",
+                                    "size": 34440
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HTC",
+                            "children": [
+                                {
+                                    "name": "Desire 820",
+                                    "size": 31709
+                                },
+                                {
+                                    "name": "Desire 530",
+                                    "size": 40600
+                                },
+                                {
+                                    "name": "HTC One M8",
+                                    "size": 41308
+                                },
+                                {
+                                    "name": "HTC One X9",
+                                    "size": 10690
+                                },
+                                {
+                                    "name": "Desire 825",
+                                    "size": 28300
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Huawei",
+                            "children": [
+                                {
+                                    "name": "Honor 6",
+                                    "size": 50219
+                                },
+                                {
+                                    "name": "Honor 8",
+                                    "size": 30165
+                                },
+                                {
+                                    "name": "P9 Plus",
+                                    "size": 10509
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Apple",
+                            "children": [
+                                {
+                                    "name": "iPhone 6",
+                                    "size": 920
+                                },
+                                {
+                                    "name": "iPhone 7",
+                                    "size": 650
+                                },
+                                {
+                                    "name": "iPhone 7 Plus",
+                                    "size": 703
+                                },
+                                {
+                                    "name": "iPhone 6s",
+                                    "size": 1200
+                                },
+                                {
+                                    "name": "iPhone 5s",
+                                    "size": 500
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Samsung",
+                            "children": [
+                                {
+                                    "name": "Galaxy S8",
+                                    "size": 6725
+                                },
+                                {
+                                    "name": "Galaxy S7",
+                                    "size": 3727
+                                },
+                                {
+                                    "name": "Galaxy S6",
+                                    "size": 9317
+                                },
+                                {
+                                    "name": "Galaxy J3",
+                                    "size": 4853
+                                },
+                                {
+                                    "name": "Galaxy S7 Edge",
+                                    "size": 6411
+                                },
+                                {
+                                    "name": "Champ",
+                                    "size": 3174
+                                },
+                                {
+                                    "name": "S4 Mini",
+                                    "size": 7881
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
